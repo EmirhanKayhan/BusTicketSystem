@@ -77,6 +77,3 @@ Bu bölüm, uygulamanın nasıl kullanılacağına dair temel bilgiler içerir. 
 
 Admin paneline erişmek için, tarayıcınızda http://localhost:8080/UmuttepeBusTicketSystem/ciapp/public/admn/dashboard adresine gidin.
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
