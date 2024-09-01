@@ -40,7 +40,7 @@ Bu projeyi çalıştırmak için şunlara ihtiyacınız olacak:
 
 1. Depoyu klonlayın:
 
-git clone https://github.com/ArtunKARA/UmuttepeBusTicketSystem.git
+git clone https://github.com/EmirhanKayhan/BusTicketSystem.git
 
 2. Projedeki dizine gidin:
 
