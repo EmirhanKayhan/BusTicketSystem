@@ -1,6 +1,6 @@
 
 <!--- selectroom ---->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVTxXxJwNZNyXFbO5N2jUr2erGge59Ao4"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key="></script>
 <script>
 		function initMap() {
 			var directionsService = new google.maps.DirectionsService;
